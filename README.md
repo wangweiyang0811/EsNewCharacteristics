@@ -1,0 +1,2 @@
+# EsNewCharacteristics
+记录ECMAScript的新特性
